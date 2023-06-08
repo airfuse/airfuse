@@ -2,17 +2,22 @@
 
 ### Build real-time data apps in minutes
 Simply connect any data source, combine them and get fast Data APIs instantly with just a few clicks. No need to be a tech expert .
-<!--
-**airfuse/airfuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ToDo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ ] Add support for MS SQL.  
+- [ ] Add support for CSV.
+- [ ] Add support for JSON.
+- [ ] Add support for loading from another REST API.
+- [ ] Add support for loading from Parquet.
+- [ ] Add support for loading from S3.
+- [ ] Add multi-table option.
+
+### In Progress
+
+- [ ] Add support for PostgreSQL.
+  
+
+### Done ✓
+
+- [x] Add support for Mysql.  
