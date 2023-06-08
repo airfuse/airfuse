@@ -1,0 +1,5 @@
+host: localhost
+user: root
+password: root
+database: test
+consulta: SELECT * FROM TEST limit 10 
