@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Build real-time data apps in minutes
+Simply connect any data source, combine them and get fast Data APIs instantly with just a few clicks. No need to be a tech expert .
 <!--
 **airfuse/airfuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
