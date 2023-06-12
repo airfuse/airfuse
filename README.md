@@ -21,3 +21,4 @@ Simply connect any data source, combine them and get fast Data APIs instantly wi
 ### Done ✓
 
 - [x] Add support for Mysql.  
+- [x] Add soda test for Mysql.  
