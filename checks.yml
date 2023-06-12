@@ -1,0 +1,4 @@
+# Checks for basic validations
+checks for TEST:
+  # table empytiness check
+  - row_count > 0

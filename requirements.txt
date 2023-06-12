@@ -1,11 +1,11 @@
-boto3==1.26.149
-botocore==1.29.149
 duckdb==0.8.0
-fastapi==0.96.0
+fastapi==0.97.0
 mysql_connector_repackaged==0.3.1
 pandas==2.0.2
 pyarrow==8.0.0
 PyYAML==6.0
 Requests==2.31.0
+soda_core==3.0.39
+soda_core_mysql==3.0.39
 streamlit==1.8.1
 uvicorn==0.22.0
