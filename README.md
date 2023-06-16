@@ -15,10 +15,11 @@ Simply connect any data source, combine them and get fast Data APIs instantly wi
 
 ### In Progress
 
-- [ ] Add support for PostgreSQL.
+- [x] Add soda test for PostgreSQL.
   
 
 ### Done ✓
 
 - [x] Add support for Mysql.  
-- [x] Add soda test for Mysql.  
+- [x] Add soda test for Mysql.
+- [X] Add support for PostgreSQL.
