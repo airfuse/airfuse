@@ -15,10 +15,13 @@ Simply connect any data source, combine them and get fast Data APIs instantly wi
 
 ### In Progress
 
-- [ ] Add support for PostgreSQL.
+- [ ] Add support for MS SQL.  
+- [ ] Add support for CSV.
+- [ ] Add support for JSON.
   
 
 ### Done ✓
 
 - [x] Add support for Mysql.  
 - [x] Add soda test for Mysql.  
+- [x] Add support for PostgreSQL.

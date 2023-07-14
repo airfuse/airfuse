@@ -1,11 +1,14 @@
 duckdb==0.8.0
-fastapi==0.97.0
+fastapi==0.100.0
 mysql_connector_repackaged==0.3.1
 pandas==2.0.2
+psycopg2==2.9.6
+psycopg2_binary==2.9.6
 pyarrow==8.0.0
 PyYAML==6.0
 Requests==2.31.0
-soda_core==3.0.39
+soda_core==3.0.45
 soda_core_mysql==3.0.39
+soda_core_postgres==3.0.45
 streamlit==1.8.1
 uvicorn==0.22.0
